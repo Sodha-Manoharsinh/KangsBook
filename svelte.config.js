@@ -9,7 +9,7 @@ const config = {
 			precompress: false
 		}),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/my-book-app' : ''
+			base: process.env.NODE_ENV === 'production' ? '/KangsBook' : ''
 		},
 		prerender: {
 			entries: [] // ← prevents errors by not trying to pre-render routes
