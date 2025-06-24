@@ -1,0 +1,73 @@
+{
+      "kind": "books#volume",
+      "id": "WuVyzgEACAAJ",
+      "etag": "XYIu2Ez4+es",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WuVyzgEACAAJ",
+      "volumeInfo": {
+        "title": "Titty Parade",
+        "authors": [
+          "Okumoto Yuta"
+        ],
+        "publishedDate": "2021-05-20",
+        "description": "Souta has worked himself into a problem and his tall, busty, life-long friend Rika is the only one that can save him! After bragging about having a girlfriend to his friends, the introvert Souta begs Rika to pull him out of the jam he's been canned in, and she's willing to help him out...for a price. Debuting at the beach, Souta is the envy of all his friends when Rika shows up with her curves almost spilling out of her swimsuit! While feeling overwhelmed by her intimidating confidence, Souta stands up to a group of beach bros, impressing Rika in his gaining confidence. Moving to a more secluded part of the beach, Rika is going to use her height and strength to dominate her shy childhood friend!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1634423070"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781634423076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WuVyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WuVyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WuVyzgEACAAJ&dq=overflowhentai&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=WuVyzgEACAAJ&dq=overflowhentai&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Titty_Parade.html?hl=&id=WuVyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WuVyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Souta has worked himself into a problem and his tall, busty, life-long friend Rika is the only one that can save him!"
+      }
+    },
